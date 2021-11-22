@@ -3,7 +3,7 @@ Class for managing Socrata get requests
 """
 import requests
 import pandas as pd
-from core.util import api_util
+from util import api_util
 
 
 class SocrataAPIClient:
